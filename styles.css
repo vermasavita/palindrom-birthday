@@ -1,0 +1,78 @@
+body{
+    background-color: blue;
+}
+
+.heading{
+text-align: center;
+color: rgb(25, 223, 25);
+margin-bottom: 8rem;
+}
+.input-birth-date {
+    display: block;
+    margin: auto;
+    width: 15rem;
+    height: 2rem;
+
+
+}
+
+.check-btn {
+    margin: auto;
+    display: block;
+    margin-top: 1rem;
+    color: white;
+    border: none;
+    width: 5rem;
+    height: 1.5rem;
+    background-color: rgb(25, 223, 25);
+    cursor: pointer;
+    margin-bottom: 2rem;
+
+}
+
+.div{
+    text-align: center;
+    margin-right: 2.5rem;
+    padding-bottom: 1rem;
+    font-size: large;
+    font-weight: bold;
+    color: rgb(25, 223, 25);
+    
+    
+}
+
+.div2{
+    text-align: center;
+    margin-right: 2.5rem;
+
+    font-size: large;
+    font-weight: bold;
+    color: white;
+   
+    
+    
+}
+
+.footer .link {
+    color:  white;
+    font-size: 1.2rem;
+    padding-inline-start: 20px;
+    display: inline;
+    margin-bottom: 50rem;
+
+}
+
+.list-non-bullet {
+    list-style: none;
+    padding-inline-start: 0px;
+    text-align: center;
+    padding: 1rem 2rem;
+    padding-top: 20rem;
+    
+
+}
+
+.list-item-inline {
+    list-style: none;
+    display: inline;
+}
