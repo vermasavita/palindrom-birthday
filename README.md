@@ -4,7 +4,10 @@
 ## About 
 Find out if birth date is palindrom or not. If not what is the nearest next date which is palindrome.
 
-## Stack
+## Programming language
 - HTML
 - CSS
 - Javascript
+
+## How to use
+Just need to give date of your birth and click on check button.
